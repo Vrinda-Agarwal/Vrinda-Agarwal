@@ -26,33 +26,18 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+`Python` · `Jupyter` · `C` · `JavaScript` · `HTML` · `Shell` · `Git`
 
----
+## ⭐ Top Projects
 
-## 🚀 Featured Projects
-
-| Project | Area | Language |
-| :-- | :-- | :-- |
-| 🧠 [head-pose-estimation](https://github.com/Vrinda-Agarwal/head-pose-estimation) | Computer Vision / ML | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 📊 [data_visualization](https://github.com/Vrinda-Agarwal/data_visualization) | Data Visualization | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 💼 [Only-Jobs](https://github.com/Vrinda-Agarwal/Only-Jobs) | Web Application | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🔮 [shubh-drishti-astrovastu](https://github.com/Vrinda-Agarwal/shubh-drishti-astrovastu) | Web Application | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🗨️ [Reddit_Clone](https://github.com/Vrinda-Agarwal/Reddit_Clone) | Full-Stack Web | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🚚 [Hire_Truck_Project](https://github.com/Vrinda-Agarwal/Hire_Truck_Project) | Web Application | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🐚 [C-Shell](https://github.com/Vrinda-Agarwal/C-Shell) | Systems Programming | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| 🧵 [Multithreading-Simulations](https://github.com/Vrinda-Agarwal/Multithreading-Simulations) | Operating Systems | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| ⚔️ [Clash_Of_Clans](https://github.com/Vrinda-Agarwal/Clash_Of_Clans) | Terminal Game | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+- [Only-Jobs](https://github.com/Vrinda-Agarwal/Only-Jobs) · Python
+- [kaapi-bara](https://github.com/Vrinda-Agarwal/kaapi-bara) · Python
+- [shubh-drishti-astrovastu](https://github.com/Vrinda-Agarwal/shubh-drishti-astrovastu) · JavaScript
+- [data_visualization](https://github.com/Vrinda-Agarwal/data_visualization) · Jupyter Notebook
+- [head-pose-estimation](https://github.com/Vrinda-Agarwal/head-pose-estimation) · Jupyter Notebook
+- [Clash_Of_Clans](https://github.com/Vrinda-Agarwal/Clash_Of_Clans) · Python
 
 ---
 
